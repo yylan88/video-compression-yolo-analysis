@@ -177,6 +177,12 @@ The model gradually learns from easy samples to difficult samples.
 
 Analyze performance trends across different compression levels.
 
+Models:
+
+- QP15 Model
+- QP35 Model
+- QP43 Model
+- 
 Metrics:
 
 - mAP@0.5
@@ -196,9 +202,7 @@ Compare multiple YOLOv7 models trained under different QP conditions.
 
 Models:
 
-- QP15 Model
-- QP35 Model
-- QP43 Model
+
 - Mixed-QP Model
 - Curriculum Learning Model
 
